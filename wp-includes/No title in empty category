@@ -1,0 +1,8 @@
+Actually, I've got no Title displayed and no upload "+" button on the right.
+\views\category\tmpl\default_head.php is not parsed at all, when a category has nothing in it.
+
+Currently, I have to go elsewhere (upper category) to upload in frontend.
+Anyone to confirm title and "+" are missing?
+
+Ideas for a fix? From where default_head.php is fired?
+http://www.parsaya.com
